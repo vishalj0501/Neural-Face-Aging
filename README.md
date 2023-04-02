@@ -1,6 +1,7 @@
 # Neural-Face-Aging
 
 This project is an implementation of the Face Aging cGAN paper : https://arxiv.org/pdf/1702.01983v2.pdf
+
 Epoch Run: 50
 
 Loss Output: 
